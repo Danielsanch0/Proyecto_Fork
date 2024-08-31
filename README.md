@@ -1,2 +1,2 @@
 # Proyecto_Fork
-Trabajo Fork Wilmer, Daniel, Aleja
+Trabajo Fork Wilmer, Daniel, Andres
